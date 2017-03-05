@@ -1,0 +1,17 @@
+= Asciidoc教程
+:toc:
+
+== Asciidoc简介
+
+AsciiDoc是一种轻量级标记语言，用于以纯文本创作笔、文章、文档、书籍、网页、幻灯片和手册页。
+
+== 本教程内容
+
+本教程包含Asciidoc的快速入门指南以及进阶教程。
+
+
+== 原文链接
+
+. http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/[Asciidoc快速指南]
+. http://asciidoctor.org/docs/user-manual/[Asciidoc用户手册]
+
